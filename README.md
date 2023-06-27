@@ -1,5 +1,5 @@
 # fractaltrees
-testing variations of fractal trees in java
+testing variations of some cool visualizations of fractal trees in java
 
-they're all just variations of one another, but with some added feature.
-some cool visualizations.
+they're all just variations of one another, but with some added features.
+
