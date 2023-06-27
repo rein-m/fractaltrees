@@ -50,7 +50,7 @@ public class frtloop extends JFrame {
 
         g2d.setColor(Color.BLACK);
         int startX = width / 2;
-        int startY = height - 50;
+        int startY = height - 10;
         int angle = -90;
         int depth = 10;
 
