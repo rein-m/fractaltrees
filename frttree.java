@@ -36,8 +36,6 @@ public class frttree extends JFrame {
 
         drawTree(g, x2, y2, angle1, depth1, lineWidth1);
         drawTree(g, x2, y2, angle2, depth2, lineWidth2);
-
-        // Add leaves
         if (depth <= 3) {
             drawLeaves(g, x2, y2, 8);
         }
